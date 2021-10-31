@@ -74,10 +74,13 @@
       "Tag: wedding": 0,
       "Tag: world war ii": 0,
       "adult": 1,
+      "overview": "NYPD cop, John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when minutes after he arrives at her office, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
       "release_month": 7,
       "release_quarter": 3,
       "release_year": 1988,
-      "runtime": 131
+      "runtime": 131,
+      "tagline": "40 Stories. Twelve Terrorists. One Cop.",
+      "title": "Die Hard"
     }
   ],
   "method": "predict"
