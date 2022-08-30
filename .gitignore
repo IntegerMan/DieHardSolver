@@ -131,3 +131,9 @@ dmypy.json
 DataWrangling/.idea/
 
 .idea/
+
+AutoML/automl-output/
+
+AutoML/download_explanation/
+
+config.json
